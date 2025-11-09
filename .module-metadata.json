@@ -1,0 +1,12 @@
+{
+  "name": "state-management",
+  "version": "0.1.0",
+  "description": "Redux Toolkit state management module",
+  "type": "library",
+  "language": "typescript",
+  "category": "frontend",
+  "maintainers": [{"name": "Modsynth Team"}],
+  "repository": {"type": "git", "url": "https://github.com/modsynth/state-management.git"},
+  "techStack": ["React", "Redux Toolkit", "TypeScript"],
+  "tags": ["redux", "state-management"]
+}

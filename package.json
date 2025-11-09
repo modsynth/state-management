@@ -1,0 +1,23 @@
+{
+  "name": "@modsynth/state-management",
+  "version": "0.1.0",
+  "description": "Redux Toolkit state management module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "repository": {"type": "git", "url": "git+https://github.com/modsynth/state-management.git"},
+  "keywords": ["redux", "state", "management"],
+  "author": "Modsynth Team",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "@reduxjs/toolkit": "^2.0.0",
+    "react-redux": "^9.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
